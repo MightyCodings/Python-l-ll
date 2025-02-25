@@ -1,0 +1,6 @@
+x=15
+y=20
+if(x>y or x==15):
+    print("\nCondition is true")
+else:
+    print("\nConditon is false")    
